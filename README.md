@@ -22,4 +22,4 @@ Em conclusão, o XGBoost apresentou um desempenho mais robusto e equilibrado par
 
 ## Agradecimentos
 
-Gostaria de deixar um agradecimento especial à professora Isadora Ferrão. Excelente didática e muito conhecimento técnico! 
+Gostaria de deixar um agradecimento especial à professora Isadora Ferrão. Excelente didática e muito conhecimento técnico! Me ensinou muitas coisas importantes que são necessárias durante o Bootcamp do Bradesco para ser um excelente profissional.
