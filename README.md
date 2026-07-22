@@ -20,3 +20,6 @@ Os resultados demonstraram a superioridade do XGBoost em relação à Regressão
 
 Em conclusão, o XGBoost apresentou um desempenho mais robusto e equilibrado para um cenário altamente desbalanceado, oferecendo maior eficiência na identificação de transações fraudulentas e maior confiabilidade para aplicações reais no setor financeiro.
 
+## Agradecimentos
+
+Gostaria de deixar um agradecimento especial à professora Isadora Ferrão. Excelente didática e muito conhecimento técnico! 
